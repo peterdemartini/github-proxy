@@ -1,0 +1,29 @@
+{
+  "name": "github-proxy",
+  "version": "0.0.0",
+  "description": "Github API proxy",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ll"
+  },
+  "keywords": [
+    "Github",
+    "API",
+    "Wrapper",
+    "Proxy"
+  ],
+  "author": "Peter DeMartini <peter@superlativecode.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "~4.3.0",
+    "logfmt": "~1.1.2",
+    "rest": "~1.1.0"
+  },
+  "engines": {
+    "node": "0.10.x"
+  }
+}
